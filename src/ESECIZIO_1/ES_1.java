@@ -1,12 +1,12 @@
-package ESECIZIO_2;
+package ESECIZIO_1;
 
 import java.util.Scanner;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class ES_2 {
-    private static final Logger logger = LoggerFactory.getLogger(ES_2.class);
+public class ES_1 {
+    private static final Logger logger = LoggerFactory.getLogger(ES_1.class);
 
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
